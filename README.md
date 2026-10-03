@@ -1,0 +1,2 @@
+# GolfTracer-support
+Golf Tracerのサポートとプライバシーポリシー

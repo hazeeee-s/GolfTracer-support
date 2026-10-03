@@ -1,3 +1,8 @@
+---
+layout: default
+title: Golf Tracer サポート
+---
+
 # Golf Tracer サポート
 
 Golf Tracerは、ゴルフのショット動画に弾道ラインを重ねて保存するiPhoneアプリです。始点と最高点を手動で指定します。ヤード数と弾道は映像上の演出であり、実際の飛距離や球筋を測定するものではありません。
@@ -32,6 +37,4 @@ iPhoneの「設定」でGolf Tracerの写真への追加を許可し、空き容
 
 ## ポリシー
 
-[プライバシーポリシー](privacy.md)
-
-App Store向けのURL：[サポート](https://hazeeee-s.github.io/GolfTracer-support/) / [プライバシーポリシー](https://hazeeee-s.github.io/GolfTracer-support/privacy.html)
+[プライバシーポリシー](privacy.html)
